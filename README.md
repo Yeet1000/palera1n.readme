@@ -14,8 +14,8 @@
 This is the official repo for the palera1n project, a jailbreak for arm64 devices on iOS 15.0+
 
 - Loader application used in palera1n can be found [here](https://github.com/palera1n/loader).
-- palera1ns jbinit can be found [here](https://github.com/palera1n/jbinit).
-- palera1ns custom PongoOS can be found [here](https://github.com/palera1n/pongoos).
+- palera1n's jbinit can be found [here](https://github.com/palera1n/jbinit).
+- palera1n's custom PongoOS can be found [here](https://github.com/palera1n/pongoos).
 
 Website & credits can be found at https://palera.in (scroll down for credits).
 
@@ -51,4 +51,4 @@ Make sure you provide full details on your device, such as:
 
 Using `-VvL` would help with debugging.
 
-Join the [Support Discord](https://dsc.gg/palera1n), and create a thread in [#support](https://discord.com/channels/1028398973452570725/1028730487700738130) or ask in [#general](https://discord.com/channels/1028398973452570725/1028398976640229380).
+Join the [Support Discord](https://dsc.gg/palera1n), and create a thread in [#support](https://discord.com/channels/1028398973452570725/1028730487700738130) or ask in [#jailbreak](https://discord.com/channels/1028398973452570725/1028398976640229380).
